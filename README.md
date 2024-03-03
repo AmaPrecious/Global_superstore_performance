@@ -81,6 +81,9 @@ I harnessed the power of PivotTables, enabling dynamic and interactive explorati
    d. Christopher Conant
    e. Sean Miller
 
+   [Click here](https://github.com/AmaPrecious/Global_superstore_performance/blob/main/GlobalSuperstore%20-%20Capstone%20projectxlsx.xlsb) for the full worksheet.
+
+   
 ## PowerPoint Presentation;
 
 Click the link to the power point presentaion of my research on Nigeria Concord generating the lowest profit In Africa And United States; [download here](https://github.com/AmaPrecious/Global_superstore_performance/blob/main/LOW%20PROFITABILITY%20CAUSE%20(NIGERIA%20AND%20CONCORD).pptx).
