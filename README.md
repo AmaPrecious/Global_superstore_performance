@@ -58,8 +58,7 @@ I harnessed the power of PivotTables, enabling dynamic and interactive explorati
 
 ## Visualization
 
-![](https://github.com/AmaPrecious/Global_superstore_performance/blob/main/GLOBALSUPERSTORE.jpg)
-
+![](https://github.com/AmaPrecious/Global_superstore_performance/blob/main/Globalsuperstoredashboard.heic)
 1. The top 3 countries that generated the highest total profit in the year 2014 were **United States**, **India**, and **China** as represented in the dashboard.
 
 2. The top 3 products for each country include;
